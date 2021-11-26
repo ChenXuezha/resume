@@ -69,7 +69,7 @@ var config = {
         "     <li>熟练运用标准SQL语句及熟悉Mysql数据库的操作与设计。</li>" +
         "     <li>熟悉JSP、Servlet、JSTL、EL等，熟悉Tomcat服务器的使用。</li>" +
         "     <li>熟练使用Eclipse，IntelliJ IDEA等开发工具。</li>" +
-        "     <li>熟悉版本控制器SVN/Maven。</li>"  +
+        "     <li>熟悉版本控制器SVN/Git。</li>"  +
         " </ul>",
 
 
