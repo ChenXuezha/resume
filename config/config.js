@@ -51,11 +51,11 @@ var config = {
     skills: [
         ["Java","87","red"],
         ["Spring+Spring MVC+Mybaits", 85, "blue"],
-		["Spring+Struts+Hibernate", 78, "yellow"],
+		["Spring+Struts+Hibernate", 81, "yellow"],
 		["Spring Boot", 86, "pink"],
-        ["SQL", 82, "#1abc9c"],
+        ["SQL", 84, "#1abc9c"],
         ["HTML5+CSS3+JavaScript", 84, "rgba(0,0,0)"],
-		["Jquery+Ajax", 80, "#550000"],
+		["Jquery+Ajax", 83, "#550000"],
        
     ],
 
@@ -65,11 +65,11 @@ var config = {
         "     <li>熟练掌握Java语言以及面向对象设计思想，具有扎实的Java编程功底和编码规范。</li>" +
         "     <li>熟练掌握JavaScript、JQuery、css、ajax、Json、HTML5、Bootstrap等前端技术。</li>" +
         "     <li>熟悉JavaIO、多线程、集合等基础框架。</li>" +
-        "     <li>熟悉Hibernate、Spring、Struts2以及 Spring MVC、SpringBoot 和 MyBatis、Thymeleaf等框架。</li>" +
+        "     <li>熟练Hibernate、Spring、Struts2以及 Spring MVC、SpringBoot 和 MyBatis、Thymeleaf等框架。</li>" +
         "     <li>熟练运用标准SQL语句及熟悉Mysql数据库的操作与设计。</li>" +
-        "     <li>熟悉JSP、Servlet、JSTL、EL等，熟悉Tomcat服务器的使用。</li>" +
+        "     <li>熟练JSP、Servlet、JSTL、EL等，熟悉Tomcat服务器的使用。</li>" +
         "     <li>熟练使用Eclipse，IntelliJ IDEA等开发工具。</li>" +
-        "     <li>熟悉版本控制器SVN/Git。</li>"  +
+        "     <li>熟练版本控制器SVN/Git。</li>"  +
         " </ul>",
 
 
@@ -94,7 +94,7 @@ var config = {
         //如果您内有工作经历，您可以采取下列写法
         // ["————————", "", "<p>暂无工作经历，期待您的联系。</p>"]
 
-        ["2021/7 — 2021/12", "<br>深蓝软件南宁分公司",
+        ["2021/7 — 2021/12", "<br>深蓝软件有限公司南宁分公司",
             "岗位：&emsp;JAVA开发工程师实习生<br>" +
             "<br><p>1.在项目负责人的指导下,配合完成了公司外包项目的设计,开发等工作;</p>" +
             "<p>2.维护和升级现有项目,编写后端代码及前端界面;</p>"+
